@@ -1,5 +1,7 @@
 This repository contains a go _.main_ file that prints **"hello world"**
-###File structure
+
+### File structure
+
 /hngi8*stage2_task2-|
 |* \_ _ main.go
 |_ \_ \_ README.md
